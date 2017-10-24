@@ -1,5 +1,5 @@
 # UndergradResearch
-Some sample code taken from my undergraduate research project in Astrophysics on Modeling Galaxy Clusters.
+Some sample code taken from my undergraduate research project in Astrophysics on Modeling Galaxy Clusters.  Note: I have not updated these files since graduating, though my programming has grown by leaps and bounds since.
 
 functions.py contains, as the name suggests, some core functions for the project.
 
